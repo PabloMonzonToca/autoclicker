@@ -1,0 +1,2 @@
+Autoclicker: INACTIVO
+Pulsa F6 para cambiar el estado.
